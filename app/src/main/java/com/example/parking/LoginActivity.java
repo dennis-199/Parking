@@ -147,7 +147,7 @@ public class LoginActivity extends AppCompatActivity {
                             if(accountType.equals ( "User" )) {
                                 progressDialog.dismiss ();
                                 //user is seller
-                                startActivity ( new Intent ( LoginActivity.this, MainActivity.class ) );
+                                startActivity ( new Intent ( LoginActivity.this, MapsActivity.class ) );
                                 finish ();
                             }
                             else {
