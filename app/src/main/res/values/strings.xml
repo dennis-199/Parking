@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Parking</string>
     <string name="google_maps_key">AIzaSyDV2_xy58r15K6TskZy4KWMuhUDVq67jqM</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="open" />
+    <string name="close" />
 </resources>

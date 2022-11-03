@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_myfeed"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/sentEmail"
+        android:visible="false"
+        android:icon="@drawable/ic_check"
+        android:title="Donors Emailed"/>
+
+    <item
+        android:id="@+id/Donor"
+        android:icon="@drawable/ic_bloodbank"
+        android:title="Donor"/>
+    <item
+        android:id="@+id/Recipient"
+        android:icon="@drawable/ic_bloodbank"
+        android:title="Recipient"/>
+
+
+
+
+
+
+
+</menu>

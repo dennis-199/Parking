@@ -154,7 +154,7 @@ public class SignUpActivity extends AppCompatActivity {
             public void onSuccess(Void unused) {
                 // db updated
                 progressDialog.dismiss ();
-                startActivity ( new Intent( SignUpActivity.this, MapsActivity.class ) );
+                startActivity ( new Intent( SignUpActivity.this, LoginActivity.class ) );
                 finish();
             }
         } ).addOnFailureListener ( new OnFailureListener ( ) {
@@ -162,7 +162,7 @@ public class SignUpActivity extends AppCompatActivity {
             public void onFailure(@NonNull Exception e) {
                 // failed updating db
                 progressDialog.dismiss ();
-                startActivity ( new Intent ( SignUpActivity.this, MapsActivity.class ) );
+                startActivity ( new Intent ( SignUpActivity.this, LoginActivity.class ) );
                 finish();
             }
         } );

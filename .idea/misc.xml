@@ -3,15 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/header_background.xml" value="0.144" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/ic_bloodbank.xml" value="0.144" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/ic_check.xml" value="0.144" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/ic_myfeed.xml" value="0.144" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/navigation_selector.xml" value="0.144" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/navigation_view_item_selected.xml" value="0.144" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/shape_circle01.xml" value="0.1165" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/shape_rect01.xml" value="0.1165" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable-v24/shape_rect02.xml" value="0.1165" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/drawable/round.xml" value="0.1165" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_forget_password.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_login.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_maps.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_select_parking.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_sign_up.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_splash_screen.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/layout/admin_header.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/menu/admin_main_menu.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/Daniel Ochieng/AndroidStudioProjects/Parking/app/src/main/res/menu/main_menu.xml" value="0.240625" />
       </map>
     </option>
